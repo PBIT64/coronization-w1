@@ -44,5 +44,11 @@ TagManager:
   - name: Terrain
     uniqueID: 2084053667
     locked: 0
+  - name: FogOfWar
+    uniqueID: 3812952389
+    locked: 0
+  - name: UI
+    uniqueID: 2618095241
+    locked: 0
   m_RenderingLayers:
   - Default
